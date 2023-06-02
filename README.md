@@ -1,6 +1,6 @@
 ### Olá!! Eu sou o Alexandre Konrath 👋
 
-- 🌱 Estudando JavaScript, HTML e CSS
+- 🌱 Estudando JavaScript, HTML, CSS e Python
 
 <div> 
 
